@@ -1,0 +1,4 @@
+1. In order to avoid the interference of sunlight on the infrared light, the experiment must be carried out indoors.
+2.The speed of the car motor will vary according to the difference of each motor factory. In the experiment, you can adjust the speed parameter in the program according to the actual situation.
+3.Because the color of the colored paper will be lightened after the white light of the searchlight of the color sensor module is irradiated, the color of the magic light obtained after calculation by the MCU will be lighter than the color of the colored paper.
+4.Because the light intensity of the environment in which everyone is located is different, it will affect the data acquired by the color sensor. If the buzzer plays music, the experimental effect is not well. You can get the value of the color sensor and modify the parameter range in the program

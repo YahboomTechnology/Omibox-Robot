@@ -1,0 +1,3 @@
+1.In order to reduce the surrounding environment interferes with the sound sensor, so this experiment needs to be carried out in a quiet environment!
+
+2. Because this experiment mainly uses the sound sensor to detect the outside sound, in addition to playing music, speaking loudly can also make the LED matrix display different patterns.

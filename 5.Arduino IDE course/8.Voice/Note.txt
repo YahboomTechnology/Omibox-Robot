@@ -1,0 +1,1 @@
+The experiment needs to be done in a quiet environment. If the experimental effect is not good, you can adjust the threshold of the sound sensor.

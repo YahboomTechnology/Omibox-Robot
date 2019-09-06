@@ -1,0 +1,4 @@
+Note£º
+1. In order to avoid the interference of sunlight on the infrared light, the experiment must be carried out indoors.
+2. For the tracking sensor, except for black, other colors of the material cannot absorb the infrared light emitted by the infrared emission tube, so when the tracking probe detects the color track, it is equivalent to recognizing the white color. Tracking experiments can be completed.
+3. The infrared light emitted by the infrared sensor is invisible to the human eye.

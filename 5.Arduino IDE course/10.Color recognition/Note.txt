@@ -1,0 +1,2 @@
+1.Because the color of the colored paper will be lightened after the white light of the searchlight of the color sensor module is irradiated, the color of the magic light obtained after calculation by the MCU will be lighter than the color of the colored paper.
+2.The experiment must be carried out when the battery power of the car is full. Otherwise, the color recognition will be inaccurate. It is recommended that you fully charge the car before the experiment.

@@ -1,0 +1,4 @@
+1. In order to avoid the interference of sunlight on the infrared light, the experiment must be carried out indoors.
+2. For the tracking sensor, except for black, other colors of the material cannot absorb the infrared light emitted by the infrared emission tube, so when the tracking probe detects the color track, it is equivalent to recognizing the white color. Tracking experiments can be completed.
+3. When the Omibox programmable robot tracking with the expression, the body shake will be larger. This is normal. The reason is: the MCU system needs a certain amount of time to display the expression, so the sensitivity will be reduced when the track is recognized, but not affect the tracking effect.
+4. The infrared light emitted by the infrared sensor is invisible to the human eye.

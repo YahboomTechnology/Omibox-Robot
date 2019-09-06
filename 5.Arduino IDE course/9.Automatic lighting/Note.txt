@@ -1,0 +1,2 @@
+
+If the experiment effect is not good, you can print out the output value of the light sensor and modify the threshold in the program.

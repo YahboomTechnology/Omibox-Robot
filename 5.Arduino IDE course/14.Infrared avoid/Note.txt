@@ -1,0 +1,5 @@
+
+! ! !Note:
+1. In order to avoid the interference of sunlight on the infrared sensor, we must carry out the experiment indoors.
+
+2. If the experimental results are not very well, you can modify the parameters in the program according to the actual situation to make the experiment better.

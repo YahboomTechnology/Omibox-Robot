@@ -1,0 +1,4 @@
+1. The experiment needs to be performed indoors to reduce the interference of sunlight on the infrared receiver .
+3. After the button of the infrared remote control is pressed, it needs to be released immediately, otherwise it will be considered twice by the MCU.
+4. The robot can't remotely control during playing music.  It is necessary to wait for the music to be played before the next remote control.
+5. When entering the next mode from one of the current modes, a little reaction time may be required, which is normal.

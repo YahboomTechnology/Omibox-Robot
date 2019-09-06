@@ -1,0 +1,3 @@
+! ! ! note:
+1. In order to avoid the interference of sunlight on the infrared sensor, we must carry out the experiment indoors.
+2. The infrared light emitted by the infrared tube is invisible to the human eye.
