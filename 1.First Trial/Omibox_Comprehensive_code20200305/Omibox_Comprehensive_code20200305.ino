@@ -773,45 +773,45 @@ void Mode_TrackLine_Func()
    unsigned char *picTemp;
    if((cTrack.Senser_State_L(0) && cTrack.Senser_State_R(0)))
    {
-      picTemp = new unsigned char[16]{
+      /*picTemp = new unsigned char[16]{
       0x38,0x1c,0x7c,0x3e,0xfe,0x7f,0xba,0x5d
       ,0x82,0x41,0x82,0x41,0x44,0x22,0x38,0x1c};
       memcpy(picBuffer,picTemp,16);
       free(picTemp);
-      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);
-      cMotor.LeftMotor(1, 60);
-      cMotor.RightMotor(1, 60);
+      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);*/
+      cMotor.LeftMotor(1, 40);
+      cMotor.RightMotor(1, 40);
     }
     if((cTrack.Senser_State_L(1) && cTrack.Senser_State_R(0)))
     {
-      picTemp = new unsigned char[16]{
+      /*picTemp = new unsigned char[16]{
       0x38,0x1c,0x44,0x22,0x8e,0x47,0x9e,0x4f
       ,0x9e,0x4f,0x8e,0x47,0x44,0x22,0x38,0x1c};
       memcpy(picBuffer,picTemp,16);
       free(picTemp);
-      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);
+      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);*/
       cMotor.LeftMotor(2, 40);
-      cMotor.RightMotor(1, 60);
+      cMotor.RightMotor(1, 40);
     }
     if((cTrack.Senser_State_L(0) && cTrack.Senser_State_R(1)))
     {
-      picTemp = new unsigned char[16]{
+      /*picTemp = new unsigned char[16]{
       0x38,0x1c,0x44,0x22,0xe2,0x71,0xf2,0x79
       ,0xf2,0x79,0xe2,0x71,0x44,0x22,0x38,0x1c};
       memcpy(picBuffer,picTemp,16);
       free(picTemp);
-      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);
-      cMotor.LeftMotor(1, 60);
+      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);*/
+      cMotor.LeftMotor(1, 40);
       cMotor.RightMotor(2, 40);
     }
     if((cTrack.Senser_State_L(1) && cTrack.Senser_State_R(1)))
     {
-      picTemp = new unsigned char[16]{
+      /*picTemp = new unsigned char[16]{
       0x0,0x0,0x40,0x2,0x60,0x6,0x30,0xc
       ,0x18,0x18,0x7c,0x3e,0x7c,0x3e,0x0,0x0};
       memcpy(picBuffer,picTemp,16);
       free(picTemp);
-      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);
+      cMatrix.YahBoom_OMIBOX_Matrix_Show(picBuffer);*/
       cMotor.LeftMotor(1, 0);
       cMotor.RightMotor(1, 0);
     }
