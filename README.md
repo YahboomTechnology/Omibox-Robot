@@ -16,8 +16,9 @@ This is a programmable robot with a unique box shape, the size is about 100mm*87
 # Required Best Buy Links
 [By on Yahboon website](https://category.yahboom.net/collections/a-smart-robot/products/omibox)
 
-# Download Method
+[By on Amazon](https://www.amazon.com/Yahboom-Education-Electronics-Arduino-Learnning/dp/B07SCZFLVM/ref=sr_1_19?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1583719094&s=merchant-items&sr=1-19)
 
+# Download Method
 ![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/cuvfDRW62HcEA2SaJBIo8zO5JUrYvqloJdVqdMIVmIw!/r/dL4AAAAAAAAA)
 
 # Please Contact Us
