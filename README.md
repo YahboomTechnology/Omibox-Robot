@@ -37,5 +37,7 @@ sales_79883
 Dolphin2448534184@gmail.com
 ### Technical support email:
 market@yahboom.com
+
+support@yahboom.com
 ### Amazon support email:
 amazon@yahboom.com
