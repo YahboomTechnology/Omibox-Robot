@@ -1,5 +1,5 @@
 # Omibox-Robot
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/OMvZTXrLH4.XAFDYNyxxTZhGsV7d1WRE89JVM.B4jxs!/r/dIMAAAAAAAAA)
+![](https://github.com/YahboomTechnology/Omibox-Robot/blob/master/Yahboom_Omibox.jpg)
 # Introduction
 This is a programmable robot with a unique box shape, the size is about 100mm*87mm*70mm. The whole vehicle is composed of three PCB boards and three acrylic plates. Two wheels, the universal wheel and the PCB driver board are fixed by rivets, no need screw, no need welding. The three PCB boards are: Mainboard, Expand board, and Drive board, integrate a large number of sensors and various input and output components so that the OmiBox can achieve many interesting functions. We also added a tilting wheel on the back side of the robot, which allows the robot to have the ability to tilt and also effectively prevent it backward. This robot supports Scratch graphical programming and Arduino IDE programming, it is suitable for people of different ages to use. For this robot, we also designed some LEGO building block holes that allow users to expand by themselves.
 # Feature
@@ -17,9 +17,6 @@ This is a programmable robot with a unique box shape, the size is about 100mm*87
 [By on Yahboon website](https://category.yahboom.net/collections/a-smart-robot/products/omibox)
 
 [By on Amazon](https://www.amazon.com/Yahboom-Education-Electronics-Arduino-Learnning/dp/B07SCZFLVM/ref=sr_1_19?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1583719094&s=merchant-items&sr=1-19)
-
-# Download Method
-![](http://m.qpic.cn/psc?/V12aIGgQ3D78BF/U3..NSiujzLMR7a*2QgXbZJlTSDjUE*mlKoYuCreKairZ.*XmvmK4BEMmm6cJiyQTz1PwC.DhsILpafbR1KHxQ!!/b&bo=QwQDAkMEAwIDCSw!&rf=viewer_4)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
